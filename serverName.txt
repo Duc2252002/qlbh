@@ -1,0 +1,2 @@
+localhost
+quanlybanhang001.mssql.somee.com
